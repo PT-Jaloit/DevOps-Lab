@@ -1,0 +1,1 @@
+vagrant box add ubuntu/xenial64
